@@ -49,8 +49,7 @@ export default function Login() {
 									</div>
 									<button
 										type="submit"
-										className="btn btn-secondary  btn-block"
-										disabled
+										className="btn btn-success  btn-block"
 									>
 										Selanjutnya
 									</button>
